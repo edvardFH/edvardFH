@@ -1,6 +1,5 @@
 # 👋 Hi, I'm @edvardFH
 
----
 
 ## What I Build
 
@@ -10,7 +9,6 @@ approach is warranted. I'm actively exploring systems-level programming through 
 abstracts away) and diving into Clojure for functional programming within the JVM. C#/.NET is also in my toolkit for
 contexts where the ecosystem calls for it.
 
----
 
 ## Contact
 
