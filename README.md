@@ -33,6 +33,7 @@ I'm also actively learning outside my comfort zone: Zig and Jai to understand wh
 **Exploring**
 
 ![Zig](https://img.shields.io/badge/Zig-%23F7A41D.svg?style=flat-square&logo=zig&logoColor=white)
+![Jai](https://img.shields.io/badge/Jai-%23333333.svg?style=flat-square&logoColor=white)
 ![Clojure](https://img.shields.io/badge/Clojure-%235881D8.svg?style=flat-square&logo=clojure&logoColor=white)
 
 ---
