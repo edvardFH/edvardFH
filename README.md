@@ -2,15 +2,14 @@
 
 JVM backend engineer · JS/TS frontend · Curious about what the abstractions hide
 
----
-
 ## About
 
-I build robust backend systems on the JVM — Java, Spring Boot, and Maven for production services; Scala for functional and distributed workloads. On the frontend I deliver reactive interfaces with Vue 3, Vite, and TypeScript, reaching for Nuxt when a full-stack approach is warranted. C#/.NET is in my toolkit where the ecosystem calls for it.
+I build robust backend systems on the JVM — Java, Spring Boot, and Maven for production services; Scala for functional
+and distributed workloads. On the frontend I deliver reactive interfaces with Vue 3, Vite, and TypeScript, reaching for
+Nuxt when a full-stack approach is warranted. C#/.NET is in my toolkit where the ecosystem calls for it.
 
-I'm also actively learning outside my comfort zone: Zig and Jai to understand what the JVM abstracts away at the systems level, and Clojure to push functional thinking further within the JVM itself.
-
----
+I'm also actively learning outside my comfort zone: Zig and Jai to understand what the JVM abstracts away at the systems
+level, and Clojure to push functional thinking further within the JVM itself.
 
 ## Tech Stack
 
@@ -36,13 +35,9 @@ I'm also actively learning outside my comfort zone: Zig and Jai to understand wh
 ![Jai](https://img.shields.io/badge/Jai-%23333333.svg?style=flat-square&logoColor=white)
 ![Clojure](https://img.shields.io/badge/Clojure-%235881D8.svg?style=flat-square&logo=clojure&logoColor=white)
 
----
-
 ## Most Used Languages
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edvardFH&layout=compact&theme=default&hide_border=true)](https://github.com/edvardFH)
-
----
 
 ## Contact
 
