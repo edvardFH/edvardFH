@@ -35,10 +35,6 @@ level, and Clojure to push functional thinking further within the JVM itself.
 ![Jai](https://img.shields.io/badge/Jai-%23333333.svg?style=flat-square&logoColor=white)
 ![Clojure](https://img.shields.io/badge/Clojure-%235881D8.svg?style=flat-square&logo=clojure&logoColor=white)
 
-## Most Used Languages
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edvardFH&layout=compact&theme=default&hide_border=true)](https://github.com/edvardFH)
-
 ## Contact
 
 [![Email](https://img.shields.io/badge/Email-edvardfauchelevent%40gmail.com-blue?style=flat-square&logo=gmail&logoColor=white)](mailto:edvardfauchelevent@gmail.com)
